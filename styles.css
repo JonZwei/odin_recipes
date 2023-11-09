@@ -1,0 +1,19 @@
+/* styles.css */
+
+.Title {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lists {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+
+.paragraph {
+    color: white;
+    background-color: black;
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
